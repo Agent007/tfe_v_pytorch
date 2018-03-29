@@ -11,8 +11,8 @@ were run on a desktop machine with the following hardware and software:
   * NVIDIA Titan X (Pascal)
 * Software:
   * Operating System: Ubuntu 16.04.4 LTS (GNU/Linux 4.13.0-37-generic x86_64)
-  * NVIDIA driver 390.30
+  * NVIDIA driver 390.48
   * CUDA 9.1.85-1
-  * cuDNN 7.1
-  * TensorFlow 1.7.0-rc1 **COMPILED FROM SOURCE**
+  * cuDNN 7.1.2
+  * TensorFlow 1.7.0 **COMPILED FROM SOURCE**
   * PyTorch 0.3.1 **COMPILED FROM SOURCE**
